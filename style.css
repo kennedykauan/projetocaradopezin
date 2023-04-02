@@ -1,7 +1,6 @@
 *{
     padding: 0px;
     margin: 0px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 body{
     background-image: url("imagens/IMG-20230323-WA0009.jpg");
@@ -9,12 +8,17 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 header{
     text-align: center;
     background-image: linear-gradient(to right, pink, blue, green);
-    margin-bottom: 864px;
+    margin-bottom: 764px;
+}
+main{
+    text-align: center;
+    margin-bottom: 100px;
 }
 footer{
     background-color: black;
